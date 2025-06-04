@@ -1,6 +1,6 @@
 name = "markdowner-final"
 main = "src/index.ts"
-compatibility_date = "2023-09-04"
+compatibility_date = "2025-06-01"
 compatibility_flags = [ "nodejs_compat"]
 
 
@@ -17,7 +17,7 @@ new_classes = ["Browser"] # Array of new classes
 
 [[kv_namespaces]]
 binding = "md_cache"
-id = "6895f05a78334c86abe1a91a86133642"
+id = "037faf1daed8421e817ba9fdfe6de5fb"
 
 [[unsafe.bindings]]
 name = "RATELIMITER"
