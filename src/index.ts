@@ -5,7 +5,7 @@ import { normalizeUrl,
     getRandomDelay, 
     getRandomUserAgent, 
     getRandomFingerprint } from './utils';
-import { RateLimiter } from './rateLimiter';
+import { RateLimiter } from './ratelimiter';
 import { Tweet } from 'react-tweet/api';
 import { html } from './response';
 import { } from './utils';
